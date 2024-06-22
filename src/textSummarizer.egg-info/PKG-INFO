@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/sanjanareddy333/TextSummarisation
+Author: sanjanareddy333
+Author-email: sanjanareddypeddi@gmail.com
+Project-URL: Bug Tracker, https://github.com/sanjanareddy333/TextSummarisation/issues
+Description-Content-Type: text/markdown
+
+# TextSummarisation
